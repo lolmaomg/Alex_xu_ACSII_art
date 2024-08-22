@@ -10,7 +10,6 @@ public class Main { //brace is the beginning of the class, method and such. This
         System.out.println(7+8 +" "+9);//before the string it does do the calculation
         System.out.println(7+" "+ (8+9));//parenthesis will do the calculation(or make things unaffected)
         for (int i = 1; i <= 5; i++) {
-// change for commit and push
             //this line does something
             System.out.println("i = " + i);
         }
